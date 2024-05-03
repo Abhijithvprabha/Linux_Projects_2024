@@ -1,0 +1,4 @@
+Learn how to run containerized applications with Docker.
+Learn to manage Docker images and containers.
+Learn to tag and push images to Docker Hub.
+Learn to build custom Docker images using Dockerfile.
